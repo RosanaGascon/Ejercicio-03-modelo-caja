@@ -45,6 +45,7 @@ button {
   background-color: #de7b4e;
   border-radius: 6px;
   border: 2px dotted #fff;
+  cursor: pointer;
 }
 
 .container {
